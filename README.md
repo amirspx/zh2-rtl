@@ -1,10 +1,14 @@
 # zh2-rtl
 A simple wordpress theme for Persian bloggers.
-zh2 readme
+
+zh2
 
 Author: Leo Babauta
+
 Author URI: http://leobabauta.com
+
 Theme URI: http://zenhabits.net/theme/
+
 Right to Left Direction and Translate to Persian by: @amirsp.
 
 zh2 is an extremely minimalist theme that focuses on the content without distractions. It has the content and almost nothing else. No sidebar. No header. No widgets. No comments. No search. No dynamic sidebar. No nothing.

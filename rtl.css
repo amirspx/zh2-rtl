@@ -1,0 +1,55 @@
+/*
+Theme Name: zh2
+Theme URI: http://zenhabits.net/theme/
+Author: Leo Babauta
+Author URI: http://leobabauta.com
+Description: A minimalist, content-focused theme.
+Version: 2
+License: Uncopyrighted
+License URI: http://zenhabits.net/open-source-blogging-feel-free-to-steal-my-content/
+Right to Left Direction and Translate to Persian: @amirsp.
+
+This theme is uncopyrighted.
+Do whatever you'd like with it.
+*/
+
+
+
+@font-face {
+font-family:'BNazanin';src:url('BNazanin.eot');src:url('BNazanin.eot#iefix') format('eot'),url('BNazanin.woff') format('woff'),url('BNazanin.ttf') format('truetype');
+}
+@font-face {
+font-family:'BNazaninBold';src:url('BNazaninBold.eot');src:url('BNazaninBold.eot#iefix') format('eot'),url('BNazaninBold.woff') format('woff'),url('BNazaninBold.ttf') format('truetype');
+}
+
+
+
+
+body{
+	direction: rtl;
+  	font-family: Tahoma, Sans-Serif;
+	letter-spacing: 0px;
+	-webkit-font-smoothing: antialiased;
+}
+.win.chrome body{
+    -webkit-text-stroke-width: 0.3px;
+}
+	
+a {
+  text-decoration: none;
+}
+
+blockquote {
+  margin: 10px 25px 0 0;
+  border-left: 0;
+  border-right: 8px solid #eaeaea;
+}
+
+/* headings */
+h1, h2, h3, h4, h5, h6 { 
+  font-family: 'BNazaninBold', Tahoma, Sans-Serif; 
+}
+
+P {
+	font-family: 'BNazanin' !important;
+}
